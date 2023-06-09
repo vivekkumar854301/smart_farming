@@ -30,22 +30,14 @@
 						<li><a href="<?= $link; ?>"><span class="<?php echo $logo; ?>"></span><?php echo" ". $loginProfile; ?></a></li>
 						<li><a href="market.php"><span class="glyphicon glyphicon-grain"> Digital-Market</a></li>
 						<li><a href="blogView.php"><span class="glyphicon glyphicon-comment"> BLOG</a></li>
-						<a href="#" class="logo">Multi-Language</a>
-                        <div class="language">
-							<div class="language-selected">
-								pt-US
-							</div>
-							<ul>
-								<li><a href="#" class="br">Português</a></li> <!-- pt-BR -->
-								<li><a href="#" class="en">English</a></li> <!-- en-US -->
-								<li><a href="#" class="es">Español</a></li> <!-- es --->
-							</ul>
-						</div>
 
 
 					</ul>
 				</nav>
 			</header>
 
+	<body>
+
 	</body>
+	
 </html>
